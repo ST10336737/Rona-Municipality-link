@@ -18,9 +18,15 @@
 ## Report Issues Form includes:
 
 -- Location input (Textbox)
+
 -- Category selection (Dropdown/ListBox)
+
 -- Detailed description (RichTextBox)
+
 -- File attachment for images/documents (OpenFileDialog)
+
 -- Submit button to save report
+
 -- Engagement feature (Label/ProgressBar with encouraging feedback)
+
 -- Navigation button to return to main menu
