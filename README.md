@@ -6,7 +6,7 @@
  Residents can easily report problems to their municipality using the program that is inclusive and allows transparency from the user.
  Only the Report Issues feature is operational at the moment which enables users to Upload media,input location,the brief description of issue.  Until further upgrades, the other options—Local Events & Announcements and Service Request Status—are visible but inactive.
 
- # Feattures Accomplished/Implemented 
+ # Features Accomplished/Implemented 
 ## Main Menu with three tasks:
 
 -- Report Issues (implemented)
