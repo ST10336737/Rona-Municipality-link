@@ -45,6 +45,25 @@ Location (string)
 
 Category (enum/string)
 
+# How to Compile and Run
+### 1. Clone or Download Project
+git clone https://github.com/YourRepo/MunicipalityCitizenReporting.git
+cd MunicipalityCitizenReporting
+
+### 2. Open in Visual Studio
+
+Open the .sln solution file in Visual Studio.
+
+### 3. Build the Project
+
+From the Build menu, select Build Solution (or press Ctrl+Shift+B).
+
+### 4. Run the Application
+
+Press F5 or click Start Debugging.
+
+The HomePage will appear consisting of the Rona-Municipality link brief and "View Community Calender" button and "Report an Issue" .
+
 Description (string)
 
 Attachment path (string)
