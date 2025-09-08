@@ -30,3 +30,23 @@
 -- Engagement feature (Label/ProgressBar with encouraging feedback)
 
 -- Navigation button to return to main menu
+
+# Technical Details
+
+Language: C#
+
+Framework: .NET (Windows Forms Application)
+
+Architecture: MVC (Model-View-Controller)
+
+Data Structures: Reports are stored in memory using a List<IssueReport> where IssueReport is a model class containing:
+
+Location (string)
+
+Category (enum/string)
+
+Description (string)
+
+Attachment path (string)
+
+Timestamp (DateTime)
