@@ -64,7 +64,8 @@ Press F5 or click Start Debugging.
 
 The HomePage will appear consisting of the Rona-Municipality link brief description  and "View Community Calender" button.
 
-"Engage Now" Button that redirects to the Category selection page which consists of 3 flashCards "Report Issues" other buttons are disabled as the feature still needs to be implemented
+"Engage Now" Button that redirects to the Category selection page which consists of 3 flashCards in the MainMenu form "Report Issues","Local Events and Announcements" . 
+"Service Request Status" other buttons are disabled (coming sooon) as the feature still needs to be implemented
 
 Select on the active button for reporting issues
 
